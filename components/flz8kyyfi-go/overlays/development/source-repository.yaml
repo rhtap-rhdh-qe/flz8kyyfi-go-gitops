@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: flz8kyyfi-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/flz8kyyfi-go
